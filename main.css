@@ -1,0 +1,36 @@
+@font-face {
+    font-family: FontDense;
+    src: url(dense/Dense-Regular.otf);
+}
+.jumbotron{
+    background: rgba(127,255,212,0.8);
+    width: 1150px;
+    margin: auto;
+    
+
+    
+}
+.row{
+    
+}
+
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;    
+}
+
+.nav-tabs{
+    margin-bottom: 0;
+}
+ 
+.body{
+
+}
+h4{
+    font-size: 150%;
+}
+.container{
+    font-size: 150%
+}
